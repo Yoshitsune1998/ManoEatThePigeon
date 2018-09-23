@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Mano Eat The Pigeon",
+"dataUrl": "mano eat the pigeon.data.unityweb",
+"asmCodeUrl": "mano eat the pigeon.asm.code.unityweb",
+"asmMemoryUrl": "mano eat the pigeon.asm.memory.unityweb",
+"asmFrameworkUrl": "mano eat the pigeon.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"}
+}
